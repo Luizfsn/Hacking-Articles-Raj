@@ -7,7 +7,7 @@
 https://www.hackingarticles.in/ctf-challenges-walkthrough/
 
 
-**# RED TEAMING #**
+**# RED TEAMING**
 
 - https://www.hackingarticles.in/red-teaming/
 
