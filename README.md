@@ -1,4 +1,4 @@
-# AlienVault OSSIM is an Open Source Security Information and Event Management (SIEM)
+# Red Teaming >> AlienVault
 
 
 **SIEM Lab Setup: AlienVault**
@@ -22,8 +22,7 @@
 
 
 
-# Lateral movement refers to the techniques that a cyberattacker uses, after gaining initial access, to move deeper into a network in search of sensitive data and other high-value assets. After entering the network, the attacker maintains ongoing access by moving through the compromised environment and obtaining increased privileges using various tools.
-
+# Red Teaming >> Lateral movement
 
 
 **Lateral Movement:** Pass the Ticket Attack
